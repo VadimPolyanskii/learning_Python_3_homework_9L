@@ -16,7 +16,7 @@ class MakePlayers:
                  startpole
                  ):
         """
-        Вспомогательный класс к классу class Durack()
+        Вспомогательный класс к классу class Durack
         для создания игроков через метод maker_players()
         """
         self.MAX_PLAYERS = None
@@ -171,7 +171,7 @@ class Razdaza:
                  startcoloda
                  ):
         """
-        Вспомогательный класс к классу class Durack()
+        Вспомогательный класс к классу class Durack
         раздает карты игрокам методом razdacha_card()
         """
 
@@ -290,7 +290,7 @@ class MakeGame:
                  startcoloda
                  ):
         """
-        Вспомогательный класс к классу class Durack()
+        Вспомогательный класс к классу class Durack
         для запуска процесса игры через метод go_game()
         """
         self.CARDS_4PLAYER = card4plaer
